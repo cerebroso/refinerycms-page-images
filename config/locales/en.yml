@@ -6,7 +6,7 @@ en:
         done: Done
   plugins:
     page_images:
-      title: Page Images
+      title: Images
       description: Page Images allows you to relate one or more images to any page in Refinery which makes it really easy for you to create simple image galleries with lightbox style popups on the front end page views.
   admin:
     pages:

@@ -18,7 +18,7 @@ module Refinery
       end
       
       def self.register(tab)
-        tab.name = "images"
+        tab.name = ::I18n.t 'plugins.page_images.title', :locale => ::Refinery::I18n.default_frontend_locale
         tab.partial = "/admin/pages/tabs/images"
       end
 

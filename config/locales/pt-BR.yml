@@ -6,7 +6,7 @@ pt-BR:
         done: Feito
   plugins:
     page_images:
-      title: Imagens da Página
+      title: Imagens
       description: Imagens da Página te permite relacionar uma ou mais imagens a qualquer página no Refinery, tornando muito simples a criação de galerias de imagem no front end com popus no estilo lightbox.
   admin:
     pages:
